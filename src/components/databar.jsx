@@ -2,6 +2,7 @@ import React from 'react';
 import { bio } from '../data';
 import { AiFillLinkedin, AiFillGithub, AiFillMail, AiOutlineCloudDownload, AiFillPhone } from 'react-icons/ai';
 import { FiPhoneCall } from 'react-icons/fi';
+import { GoLocation } from 'react-icons/go';
 
 const Databar = ({ customClass }) => {
     return (
@@ -15,6 +16,7 @@ const Databar = ({ customClass }) => {
                 <div className="flex flex-col items-center">
                     <p className='text-white text-xl'>{bio.name}</p>
                     <p>{bio.role}</p>
+                    <span className='flex gap-1 items-center'><GoLocation className='text-sm' />{bio.location}</span>
                     <span className='bg-selective-yellow text-rich-black font-semibold rounded-full text-sm mt-1 px-3 select-none'>{bio.tag}</span>
                 </div>
                 <div className='flex gap-4 justify-center text-gray-200'>

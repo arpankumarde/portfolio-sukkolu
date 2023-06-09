@@ -33,3 +33,8 @@
     background-size: 100% 2px;
     background-position: 0 100%
 }
+
+*::selection{
+    @apply bg-selective-yellow;
+    @apply text-rich-black;
+}

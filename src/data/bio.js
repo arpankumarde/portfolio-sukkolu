@@ -16,7 +16,7 @@ const bio = {
   },
   "about": "Hello, I'm Ramakrishna Sukkolu, a data analyst student with a passion for exploring the endless possibilities that data can offer. Over the past year, I've developed skills in MySQL, Power BI, Microsoft Excel, statistics, Python programming, data visualization, data cleaning, Pandas, Numpy, and Tableau. I'm currently seeking a database job to apply my skills and knowledge in a real-world setting. My fascination with data has driven me to dive deep into the world of data analytics and explore new ways to unlock insights from complex datasets. I believe that data-driven decision-making is the key to success in any business, and I'm eager to help organizations drive growth and achieve their goals. Despite my dedication to my work, I always bring a positive and lighthearted approach to everything I do. So, if you're looking for a skilled and passionate data analyst with a sense of humor, let's connect and explore the possibilities that data can offer!",
   "avatar": avatar,
-  "resumeLink": "https://drive.google.com/uc?id=1p32vfdernK_cJJgme_-JzgCYRMHoNk03",
+  "resumeLink": "https://drive.google.com/uc?id=10FhJ504A-3He0djWx7xeqbx1aWF5Eid6",
   "projects": [
     {
       "title": "INDIAN STARTUP FUNDING Analysis using Stream-lit",
